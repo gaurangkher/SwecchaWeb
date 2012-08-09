@@ -30,15 +30,15 @@ letter-spacing: 0px;
 padding: 12px 0 5px 10px;
 }
 #header h1 a {
-color: #57626a;
+color: #FF9933;
 text-decoration: none;
 }
 #header h1 a:hover {
-color: #57626a;
+color: #FF9933;
 text-decoration: none;
 }
 #header h2 {
-color: #ccc;
+color: #FFCC33;
 font-size: 15px;
 font-weight: 100;
 padding: 0 0 0 11px;
@@ -49,7 +49,7 @@ line-height: 12px;
 #menu {
 height: 40px;
 line-height: 40px;
-background: #57626a url(images/menu.jpg) no-repeat;
+background: #FF9933;
 text-transform: uppercase;
 }
 #menu ul {
@@ -83,7 +83,7 @@ float: right;
 text-align: justify;
 }
 .right h2 {
-color: #FF4800;
+color: #FFCC33;
 font-size: 20px;
 letter-spacing: 0px;
 font-weight: 100;
@@ -109,7 +109,7 @@ color: #666;
 line-height: 30px;
 font-weight: 600;
 }
-.left a { text-decoration: none }
+/*.left a { text-decoration: none } */
 
 #footer {
 background: #eee;
