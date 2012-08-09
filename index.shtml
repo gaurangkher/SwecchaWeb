@@ -4,6 +4,8 @@
 <title>Sweccha</title>
 <meta http-equiv="Content-Language" content="English" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!--includes-->
+<!--#include virtual="includes/main.html" -->
 
 <!--Styles -->
 <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
@@ -12,8 +14,6 @@
 <script type="text/javascript" src="jquery/jquery/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="jquery/jquery/jquery-1.7.2.js"></script>
 
-<!--includes-->
-<!--#include file="includes/main.html" -->
 </head>
 <body>
 <div id="wrap">
@@ -68,9 +68,10 @@ Amol
 </div>
 <div style="clear: both;"> </div>
 </div>
-
-
+<div id="footer">
+Sweccha SocialWelfare Trust
 </div>
 
+</div>
 </body>
 </html>
